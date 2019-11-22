@@ -57,6 +57,8 @@ Voici ce que vous devriez obtenir à la première exécution:
 
 ### **1 - Dans un premier**
 
+**Pour vous, tout va se passer à la ligne 2 du fichier exo_pushdot.js.**
+
 Dans un premier temps, vous devez simplement remplir l'objectif de départ, **faire en sorte que tous les points de la liste de caractères de départ se retrouvent à la fin !**
 
 | Avant      | Après      |
